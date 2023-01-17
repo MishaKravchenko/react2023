@@ -1,0 +1,9 @@
+.simpson img{
+    height: 300px;
+    object-fit: cover;
+}
+.simpson{
+    border: black 1px solid;
+    width: 300px;
+    overflow: hidden;
+}
