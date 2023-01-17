@@ -1,7 +1,0 @@
-.simpsons {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    column-gap: 100px;
-    padding: 50px 0;
-    row-gap: 15px;
-}
